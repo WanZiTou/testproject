@@ -1,0 +1,6 @@
+2016-10-10 14:25:45.762 INFO  com.dbyl.libarary.utils.Log 25 info - com.dbyl.libarary.utils.TestNGListener: Test Start
+2016-10-10 14:25:46.304 INFO  com.dbyl.libarary.utils.Log 25 info - com.dbyl.libarary.utils.ConfigUtils: Get the config file: D:\workspace_oilreport\Demo-master/config.properties
+2016-10-10 14:26:08.730 INFO  com.dbyl.libarary.utils.Log 25 info - com.dbyl.libarary.utils.TestNGListener: Test Finsh
+2016-10-10 14:26:08.731 ERROR com.dbyl.libarary.utils.Log 41 error - com.dbyl.libarary.utils.TestNGListener: Test Skipped
+2016-10-10 14:26:08.732 INFO  com.dbyl.libarary.utils.Log 25 info - com.dbyl.tests.loginTest: Stop WebDriver
+2016-10-10 14:26:08.736 INFO  com.dbyl.libarary.utils.Log 25 info - com.dbyl.libarary.utils.TestNGListener: Test Finish
