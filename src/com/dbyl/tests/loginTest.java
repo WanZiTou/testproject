@@ -22,7 +22,7 @@ public class loginTest extends UITest {
 		System.setProperty("webdriver.chrome.driver","webDriver/chromedriver");
 	    driver =DriverFactory.getFirefoxDriver();
 		super.init(driver);
-		ViewHomePage.setDriver(driver);
+		 ViewHomePage.setDriver(driver);
 	}
 
 	@Test(groups = "loginTest")
